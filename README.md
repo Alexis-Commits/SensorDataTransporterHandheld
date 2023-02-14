@@ -137,7 +137,7 @@ sensorDataTransporterHandheld.isWatchConnected(object :
 
  - The `handheld` app and the `smartwatch` app must have the same `package` name and must be signed with the same `keystore`
 
-- You have to add this service inside <application> .. </application> tag
+- You have to add this service inside `<application> .. </application>` tag
 
 ```xml
         <service
